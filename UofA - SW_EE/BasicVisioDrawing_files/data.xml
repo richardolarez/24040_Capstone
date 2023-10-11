@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="IN">1.000000000000000</PageScale>
+				<DrawingScale Unit="IN_F">1.000000000000000</DrawingScale>
+			</PageProps>
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="2" UniqueID="{13CD61C5-9E8D-4252-A29E-945C8AC8C409}" Name="Rectangle" NameU="Rectangle" Master="4">
+					<Text>PWR DAQ 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.687499980583344</PinX>
+						<PinY Unit="IN_F">5.656249884177343</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{E45CC9F9-F28F-4926-A5B1-0DD40B67281F}" Name="Rectangle.6" NameU="Rectangle.6" Master="4">
+					<Text>Wall Outlet</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.749999815767464</PinX>
+						<PinY Unit="IN_F">7.812500004063953</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{22035946-3EFE-4341-B1DB-FB3BDFE52952}" Name="Rectangle.7" NameU="Rectangle.7" Master="4">
+					<Text>DAQ 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.687499980583337</PinX>
+						<PinY Unit="IN_F">2.468749931590133</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{9E8243D7-3E92-485B-B1DD-44363FD9ABE3}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="IN_F">8.124999807639558</PinX>
+						<PinY Unit="IN_F">6.812499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{4FDA8F5E-1398-46F7-BA11-EA93AB87ACDB}" Name="Rectangle.3" NameU="Rectangle.3" Master="4">
+					<Text>VIC PS 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.124999807639558</PinX>
+						<PinY Unit="IN_F">6.812499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{1BDAB6A2-8D5A-4590-B5C9-E22009291876}" Name="Rectangle.8" NameU="Rectangle.8" Master="4">
+					<Text>Output</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">7.338541666666668</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{111F42F0-D2AE-4644-AE6B-55BF223A9A74}" Name="Rectangle.9" NameU="Rectangle.9" Master="4">
+					<Text>ETHNT 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">6.812499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{52EC4D1F-F324-41D7-8903-C677A2F83174}" Name="Rectangle.10" NameU="Rectangle.10" Master="4">
+					<Text>INPUT 110V</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">6.276041666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{206F7B94-8559-471B-BC57-7BCEDC14D826}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="IN_F">8.124999807639558</PinX>
+						<PinY Unit="IN_F">4.937499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{AC252CF2-606A-4DB2-B778-5D0E0FCA756F}" Name="Rectangle.3" NameU="Rectangle.3" Master="4">
+					<Text>VIC PS 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.124999807639558</PinX>
+						<PinY Unit="IN_F">4.937499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{CC1562DA-01A3-422E-94CD-C947126276AA}" Name="Rectangle.8" NameU="Rectangle.8" Master="4">
+					<Text>Output</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">5.463541666666668</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{A02D465B-E59F-4688-A879-952AF4EBF6E7}" Name="Rectangle.9" NameU="Rectangle.9" Master="4">
+					<Text>ETHNT 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">4.937499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{E3F00BF5-7D24-4224-BDA5-EF3A33213528}" Name="Rectangle.10" NameU="Rectangle.10" Master="4">
+					<Text>INPUT 110V</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">4.401041666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{E1F40985-7F5F-4A75-A268-FCEBE080E51B}" Name="Sheet.17" NameU="Sheet.17">
+					<XForm>
+						<PinX Unit="IN_F">8.124999807639558</PinX>
+						<PinY Unit="IN_F">3.062499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{F3AEC772-0637-4160-A14D-0B0D0E4CF266}" Name="Rectangle.3" NameU="Rectangle.3" Master="4">
+					<Text>VIC PS 3</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.124999807639558</PinX>
+						<PinY Unit="IN_F">3.062499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{031372D7-A679-4FF7-8F8F-3D23B021FC39}" Name="Rectangle.8" NameU="Rectangle.8" Master="4">
+					<Text>Output</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">3.588541666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{6504BC93-49C4-496B-889A-A82B12316AE4}" Name="Rectangle.9" NameU="Rectangle.9" Master="4">
+					<Text>ETHNT 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">3.062499836087230</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{2C6CA00C-C4D3-4CAB-B96C-83EDA2A9BF69}" Name="Rectangle.10" NameU="Rectangle.10" Master="4">
+					<Text>INPUT 110V</Text>
+					<XForm>
+						<PinX Unit="IN_F">8.749999899755824</PinX>
+						<PinY Unit="IN_F">2.526041666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{E2D4FC4E-F4B3-4474-813A-EA85AB12801C}" Name="Dynamic connector" NameU="Dynamic connector" Master="5">
+					<XForm>
+						<PinX Unit="IN">8.874999807639558</PinX>
+						<PinY Unit="IN_F">7.044270835365310</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{7C485101-8A74-4000-AA39-8EBEE13F4596}" Name="Dynamic connector.23" NameU="Dynamic connector.23" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">9.874999899755826</PinX>
+						<PinY Unit="IN_F">5.338541666666667</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="24" UniqueID="{B03562C3-5FDC-4E10-AC94-92A7B56764A6}" Name="Dynamic connector.24" NameU="Dynamic connector.24" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">9.874999899755826</PinX>
+						<PinY Unit="IN_F">3.463541666666667</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="25" UniqueID="{6E11CC53-71A8-4DB9-BA7E-8DAC4AAA28AC}" Name="Rectangle.25" NameU="Rectangle.25" Master="4">
+					<Text>Network Switch (GNDNET1)</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.749999815767464</PinX>
+						<PinY Unit="IN_F">1.125000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{B7B87794-02DB-407E-8D82-50F2C34EDD43}" Name="Dynamic connector.30" NameU="Dynamic connector.30" Master="5">
+					<XForm>
+						<PinX Unit="IN">8.874999807639558</PinX>
+						<PinY Unit="IN">2.093749918043615</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="31" UniqueID="{053B64B5-FA21-4883-916F-D3E75A2EDF4C}" Name="Dynamic connector.31" NameU="Dynamic connector.31" Master="5">
+					<XForm>
+						<PinX Unit="IN">8.499999807639558</PinX>
+						<PinY Unit="IN">2.781249918043615</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{EA1E8FA7-B01A-4BCE-AFE6-D89BFEB333C0}" Name="Dynamic connector.32" NameU="Dynamic connector.32" Master="5">
+					<XForm>
+						<PinX Unit="IN">8.499999807639558</PinX>
+						<PinY Unit="IN">4.218749918043615</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{330ACF48-C7EE-4CD0-B31C-A9233BFFE2BC}" Name="Rectangle.33" NameU="Rectangle.33" Master="4">
+					<Text>Flight Computer Module 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.750000151404836</PinX>
+						<PinY Unit="IN_F">2.250000231509861</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{5AF801AB-542B-4A15-968B-B11B038BAAD0}" Name="Rectangle.34" NameU="Rectangle.34" Master="4">
+					<Text>Flight Computer Module 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.750000151404836</PinX>
+						<PinY Unit="IN_F">1.875000366974962</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="35" UniqueID="{9BADC0C2-A915-440B-94E2-D75D85FF9357}" Name="Rectangle.35" NameU="Rectangle.35" Master="4">
+					<Text>Flight Computer Module 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.750000151404836</PinX>
+						<PinY Unit="IN_F">1.500000247765672</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{1A651ED2-F43A-46D5-85AD-63186C3A19C9}" Name="Rectangle.36" NameU="Rectangle.36" Master="4">
+					<Text>Flight Computer Module 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.750000151404836</PinX>
+						<PinY Unit="IN_F">1.125000128556382</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{579FEA41-BEF1-4098-95FF-FC38767F9405}" Name="Rectangle.37" NameU="Rectangle.37" Master="4">
+					<Text>Flight Computer Module 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.750000151404836</PinX>
+						<PinY Unit="IN_F">0.750000009347093</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="41" UniqueID="{C6705D0B-5E83-4F00-ADDA-E5853C524C6F}" Name="Rectangle.9" NameU="Rectangle.9" Master="4">
+					<Text>PWR 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000065023257</PinX>
+						<PinY Unit="IN_F">6.744791666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="42" UniqueID="{1CC7A545-E3A1-443A-BA65-C0C199CB998A}" Name="Rectangle.42" NameU="Rectangle.42" Master="4">
+					<Text>RTRN 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000065023257</PinX>
+						<PinY Unit="IN_F">6.380208333333334</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{C70A6CDF-732B-4F7D-99FD-A990D675E799}" Name="Rectangle.43" NameU="Rectangle.43" Master="4">
+					<Text>PWR 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.124999899755826</PinX>
+						<PinY Unit="IN_F">5.859375000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="44" UniqueID="{708BE22D-F954-4E47-9DF0-988C886BD362}" Name="Rectangle.44" NameU="Rectangle.44" Master="4">
+					<Text>RTRN 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.124999899755826</PinX>
+						<PinY Unit="IN_F">5.494791666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{6A209D67-E62E-4060-92A4-7C42784BEBE2}" Name="Rectangle.45" NameU="Rectangle.45" Master="4">
+					<Text>PWR 3</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.124999899755826</PinX>
+						<PinY Unit="IN_F">5.005208333333334</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{BE7D429D-6C70-4B84-9ED0-36628DDFD931}" Name="Rectangle.46" NameU="Rectangle.46" Master="4">
+					<Text>RTRN 3</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.124999899755826</PinX>
+						<PinY Unit="IN_F">4.640625000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{67DD9EC3-F1D4-42AC-8A2E-EF1EA0B60F68}" Name="Rectangle.47" NameU="Rectangle.47" Master="4">
+					<Text>BATT 1</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.687500015804266</PinX>
+						<PinY Unit="IN_F">7.312499848279089</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="48" UniqueID="{FCAA13C8-6D7F-4B8C-AF58-E81EEB055835}" Name="Rectangle.48" NameU="Rectangle.48" Master="4">
+					<Text>BATT 2</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.687500015804266</PinX>
+						<PinY Unit="IN_F">6.812499987808141</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{37DC349C-2403-4C6B-AF67-0AEF21A8B405}" Name="Rectangle.49" NameU="Rectangle.49" Master="4">
+					<Text>BATT 3</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.687500015804266</PinX>
+						<PinY Unit="IN_F">6.312499823895371</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="50" UniqueID="{28FBA9F7-6649-455E-8BB5-463F2415B096}" Name="Dynamic connector.50" NameU="Dynamic connector.50" Master="5">
+					<XForm>
+						<PinX Unit="IN">3.281249990291675</PinX>
+						<PinY Unit="IN_F">7.028645757472878</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="51" UniqueID="{DCAD3616-C4FF-40BD-846B-57F7BF561A98}" Name="Dynamic connector.51" NameU="Dynamic connector.51" Master="5">
+					<XForm>
+						<PinX Unit="IN">4.031249990291675</PinX>
+						<PinY Unit="IN_F">6.846354090806211</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="52" UniqueID="{8CE41DD6-F32A-4354-8680-324063EE6501}" Name="Dynamic connector.52" NameU="Dynamic connector.52" Master="5">
+					<XForm>
+						<PinX Unit="IN">3.281249907657959</PinX>
+						<PinY Unit="IN_F">6.335937493904071</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="53" UniqueID="{E67E640E-CCEA-4EE8-8B5A-E706A1AC8EFE}" Name="Dynamic connector.53" NameU="Dynamic connector.53" Master="5">
+					<XForm>
+						<PinX Unit="IN">4.031249907657959</PinX>
+						<PinY Unit="IN_F">6.153645827237404</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="54" UniqueID="{424EF609-E392-461E-9A40-54C41C7D4559}" Name="Dynamic connector.54" NameU="Dynamic connector.54" Master="5">
+					<XForm>
+						<PinX Unit="IN">3.281249907657959</PinX>
+						<PinY Unit="IN_F">5.658854078614352</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="55" UniqueID="{23ABC066-E2CE-46E8-8770-AA63E592F74E}" Name="Dynamic connector.55" NameU="Dynamic connector.55" Master="5">
+					<XForm>
+						<PinX Unit="IN">4.031249907657959</PinX>
+						<PinY Unit="IN_F">5.476562411947686</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="56" UniqueID="{6D7EDB66-A11E-4EEE-8EFE-7818DC51945F}" Name="Rectangle.56" NameU="Rectangle.56" Master="4">
+					<Text>MON 2 +</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000065023257</PinX>
+						<PinY Unit="IN_F">3.505208333333334</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="57" UniqueID="{90405A73-4985-4464-81EE-1927D1230D6E}" Name="Rectangle.57" NameU="Rectangle.57" Master="4">
+					<Text>MON 2 -</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000065023251</PinX>
+						<PinY Unit="IN_F">3.130208410819373</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{31A9B7BC-E814-423A-8B85-AEC5377EAB58}" Name="Rectangle.58" NameU="Rectangle.58" Master="4">
+					<Text>MON 2 +</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000162829053</PinX>
+						<PinY Unit="IN_F">2.630208398898444</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="59" UniqueID="{07A5B604-0E96-4BE3-A4F6-DD02E7C2707E}" Name="Rectangle.59" NameU="Rectangle.59" Master="4">
+					<Text>MON 2 -</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000162829046</PinX>
+						<PinY Unit="IN_F">2.255208476384483</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="60" UniqueID="{AADA950E-4AC7-47CD-9FDD-AC2DD42930CE}" Name="Rectangle.60" NameU="Rectangle.60" Master="4">
+					<Text>MON 3 +</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000162829053</PinX>
+						<PinY Unit="IN_F">1.744791618982951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="61" UniqueID="{F28BA424-2FF8-43BA-8CFA-615AAE4A2451}" Name="Rectangle.61" NameU="Rectangle.61" Master="4">
+					<Text>MON 3 -</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000162829046</PinX>
+						<PinY Unit="IN_F">1.369791696468990</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{47F90509-633D-42B2-8095-BC4C6E1331B2}" Name="Dynamic connector.62" NameU="Dynamic connector.62" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">3.218750065994093</PinX>
+						<PinY Unit="IN_F">2.877604282421598</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="63" UniqueID="{F7353244-D74E-406A-9CC3-848EE55A2920}" Name="Dynamic connector.63" NameU="Dynamic connector.63" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">4.156250050189824</PinX>
+						<PinY Unit="IN_F">2.690104321164617</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="64" UniqueID="{FC84DEA1-6C56-407F-AEAD-C72A49731FC8}" Name="Dynamic connector.64" NameU="Dynamic connector.64" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">3.218750114896991</PinX>
+						<PinY Unit="IN_F">2.252604382936703</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="65" UniqueID="{883F44EA-707F-4460-BB59-3ED8A83E686D}" Name="Dynamic connector.65" NameU="Dynamic connector.65" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">4.156250099092722</PinX>
+						<PinY Unit="IN_F">2.065104421679722</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="66" UniqueID="{ACCCB661-8803-4726-A741-5E5C93AE5B83}" Name="Dynamic connector.66" NameU="Dynamic connector.66" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">3.218750114896991</PinX>
+						<PinY Unit="IN_F">1.622395933374311</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="67" UniqueID="{48351BC4-7BD4-41D5-8BA9-B0BEB7F83AFD}" Name="Dynamic connector.67" NameU="Dynamic connector.67" Master="5">
+					<XForm>
+						<PinX Unit="IN_F">4.156250099092722</PinX>
+						<PinY Unit="IN_F">1.434895972117331</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
