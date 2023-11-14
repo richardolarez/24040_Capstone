@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 
 # Load the XML file
-tree = ET.parse('UofA - SW_EE/BasicVisioDrawing_files/data.xml')
+tree = ET.parse('data.xml')
 root = tree.getroot()
 
 # Iterate through the shapes
@@ -33,13 +33,13 @@ with open('visioObjects.txt', 'w') as f:
             pin_y_unit = None
 
         # Print or process the extracted information as needed
-       
-        f.write(f"Shape ID: {shape_id}\n")
+        if text is not None:
+           f.write(f"Text: {text}\n")
         f.write(f"Unique ID: {unique_id}\n")
+        f.write(f"Shape ID: {shape_id}\n")
         f.write(f"Name: {name}\n")
         f.write(f"NameU: {name_u}\n")
-        if text is not None:
-            f.write(f"Text: {text}\n")
+        
         if pin_x is not None and pin_y is not None:
             f.write(f"PinX: {pin_x} {pin_x_unit}\n")
             f.write(f"PinY: {pin_y} {pin_y_unit}\n")
