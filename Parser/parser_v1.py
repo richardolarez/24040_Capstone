@@ -34,5 +34,7 @@ for shape in root.findall('.//Shape'):
     # Add the object to the list
     objects.append(obj)
 
+
+
 # Print the list of objects
 print(objects)
