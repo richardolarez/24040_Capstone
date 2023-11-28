@@ -1,6 +1,9 @@
-html {
+
+html, body {
   height: 100%;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .banner {
@@ -70,7 +73,9 @@ label {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  width: vw;
 }
+
 .button {
   background: #eab101;
   background: radial-gradient(#eab101, #7c5d03);

@@ -18,6 +18,16 @@ html {
   width: 100%;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#001d3d;
+  text-align: center;
+  padding: 10px;
+}
+
 .banner img {
   /* Remove the fixed height and width and use max-height for scalability */
   max-height: 75px; /* You can adjust this value as per your design */
@@ -105,6 +115,11 @@ label {
 }
 
 h2 {
+  color: white;
+  left: 100px;
+}
+
+h1 {
   color: white;
   left: 100px;
 }
